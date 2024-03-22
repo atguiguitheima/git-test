@@ -5,9 +5,9 @@ public class GitTest1 {
         System.out.println("git");
         System.out.println("git");
         System.out.println("git");
+        System.out.println("maste1");
         System.out.println("hot fix");
         System.out.println("hot fix");
-        System.out.println("hot fix");
-        System.out.println("hot fix");
+        System.out.println("maste1");
     }
 }
